@@ -8,6 +8,7 @@ enum UserStatus {
 
 class User
 {
+private:
 	long id;
 	std::string FirstName;
 	std::string LastName;
