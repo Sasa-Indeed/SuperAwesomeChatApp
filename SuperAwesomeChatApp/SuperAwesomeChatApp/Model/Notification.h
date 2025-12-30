@@ -3,6 +3,7 @@
 
 class Notification
 {
+private:
 	long id;
 	std::string content;
 	long userID;
