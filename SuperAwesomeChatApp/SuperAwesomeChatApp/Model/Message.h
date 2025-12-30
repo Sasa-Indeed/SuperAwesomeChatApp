@@ -10,6 +10,7 @@ enum MessageStatus {
 
 class Message
 {
+private:
 	long id;
 	std::string content;
 	long senderID;
